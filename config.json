@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-unit-testing",
+      "title": "Testing Your Code with Unit Tests",
+      "description": "Learn professional testing practices by writing unit tests with Python's unittest framework, including test-driven development and edge case handling",
+      "path": "assignments/python-unit-testing",
+      "dueDate": "2026-09-08"
     }
   ]
 }
